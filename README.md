@@ -1,2 +1,2 @@
-# Basic-Statistics
-Some basic statistics performed in Excel with the aid of R language
+# Statistics
+Some statistics (EDA including vizualization and descriptive statistics, fitting the empirical distribution to theoretical ones, confidence levels, hypothesis testing...)performed in Excel, R and Python 
